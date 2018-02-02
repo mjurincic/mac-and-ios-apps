@@ -1,4 +1,5 @@
 ## OS X Apps
+- https://www.google.com/chrome/ 
 - https://www.getpostman.com/
 - https://keep.google.com/
 - https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb 
@@ -12,3 +13,5 @@
 - https://www.dbschema.com/index.html 
 - https://encrypt.me/
 - https://www.binarynights.com/forklift/
+- https://www.gitbook.com/editor
+- https://www.iterm2.com/
