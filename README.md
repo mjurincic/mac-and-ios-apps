@@ -19,4 +19,5 @@
 - https://www.lastpass.com/
 - https://teamsdemo.office.com/
 - https://www.navicat.com/en/download/navicat-premium
-- 
+- https://www.paragon-software.com/home/ntfs-mac/
+
