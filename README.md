@@ -17,3 +17,4 @@
 - https://www.iterm2.com/
 - https://docs.docker.com/docker-for-mac/install/
 - https://www.lastpass.com/
+- https://teamsdemo.office.com/
