@@ -7,3 +7,8 @@
 - https://www.alfredapp.com/
 - https://www.alfredapp.com/
 - https://coderunnerapp.com/
+- https://www.charlesproxy.com/ 
+- https://daisydiskapp.com/ 
+- https://www.dbschema.com/index.html 
+- https://encrypt.me/
+- https://www.binarynights.com/forklift/
