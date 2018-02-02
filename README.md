@@ -23,5 +23,9 @@
 - https://code.visualstudio.com/
 - https://www.jetbrains.com/webstorm/
 - https://www.imobie.com/phonerescue/
-- https://www.getpostman.com/
+- http://www.pixelmator.com/pro/
+- https://www.sketchapp.com/
+- https://www.spotify.com/us/download/other/
+- https://www.skype.com/en/
+- https://www.skype.com/en/business/
 
