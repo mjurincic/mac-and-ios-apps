@@ -6,3 +6,4 @@
 - https://www.duetdisplay.com/
 - https://www.alfredapp.com/
 - https://www.alfredapp.com/
+- https://coderunnerapp.com/
