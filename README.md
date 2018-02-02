@@ -20,4 +20,6 @@
 - https://teamsdemo.office.com/
 - https://www.navicat.com/en/download/navicat-premium
 - https://www.paragon-software.com/home/ntfs-mac/
+- https://code.visualstudio.com/
+- https://www.jetbrains.com/webstorm/
 
