@@ -18,3 +18,5 @@
 - https://docs.docker.com/docker-for-mac/install/
 - https://www.lastpass.com/
 - https://teamsdemo.office.com/
+- https://www.navicat.com/en/download/navicat-premium
+- 
