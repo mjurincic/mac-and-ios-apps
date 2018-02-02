@@ -15,3 +15,4 @@
 - https://www.binarynights.com/forklift/
 - https://www.gitbook.com/editor
 - https://www.iterm2.com/
+- https://docs.docker.com/docker-for-mac/install/
