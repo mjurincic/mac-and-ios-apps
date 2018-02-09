@@ -1,4 +1,6 @@
 ## OS X Apps
+- https://brew.sh/
+- https://caskroom.github.io/
 - https://www.google.com/chrome/ 
 - https://www.getpostman.com/
 - https://keep.google.com/
