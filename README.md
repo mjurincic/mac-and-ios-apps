@@ -9,7 +9,7 @@
 - https://www.acronis.com/en-us/personal/computer-backup/ 
 - https://www.duetdisplay.com/
 - https://www.alfredapp.com/
-- https://www.alfredapp.com/
+- https://www.shimovpn.com/
 - https://coderunnerapp.com/
 - https://www.charlesproxy.com/ 
 - https://daisydiskapp.com/ 
