@@ -5,6 +5,7 @@
 - https://macpaw.com/cleanmymac
 - https://www.getpostman.com/
 - https://keep.google.com/
+- http://magnet.crowdcafe.com/
 - https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb 
 - https://www.acronis.com/en-us/personal/computer-backup/ 
 - https://www.duetdisplay.com/
