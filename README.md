@@ -12,6 +12,7 @@
 - https://www.duetdisplay.com/
 - https://www.alfredapp.com/
 - https://www.shimovpn.com/
+- https://kapeli.com/dash
 - https://coderunnerapp.com/
 - https://www.charlesproxy.com/ 
 - https://daisydiskapp.com/ 
