@@ -39,6 +39,7 @@
 - http://ridiculousfish.com/hexfiend/
 - https://etcher.io/
 - https://github.com/w0lfschild/cDock2
+- https://fliqlo.com/#about-screensaver
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
