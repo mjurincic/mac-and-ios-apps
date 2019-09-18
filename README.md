@@ -41,6 +41,7 @@
 - https://github.com/w0lfschild/cDock2
 - https://fliqlo.com/#about-screensaver
 - https://developer.apple.com/xcode/
+- https://www.macbartender.com/
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
