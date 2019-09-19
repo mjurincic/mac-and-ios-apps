@@ -1,7 +1,7 @@
 ## OS X Apps
 - https://brew.sh/
-- https://www.google.com/chrome/ 
-- https://macpaw.com/cleanmyma
+- https://www.google.com/chrome
+- https://macpaw.com/cleanmymac
 - https://gpgtools.org/
 - https://www.getpostman.com/
 - https://keep.google.com/
