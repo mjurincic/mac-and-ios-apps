@@ -1,6 +1,5 @@
 ## OS X Apps
 - https://brew.sh/
-- https://caskroom.github.io/
 - https://www.google.com/chrome/ 
 - https://macpaw.com/cleanmyma
 - https://gpgtools.org/
