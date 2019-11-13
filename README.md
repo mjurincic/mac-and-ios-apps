@@ -63,6 +63,9 @@
 ## Development Tools
 - https://google-developers.appspot.com/maps/documentation/utils/geocoder/#q%3DCarrer%2520Gracia%252072%252C%2520%2520LLuchmayor
 - https://nginxconfig.io/
+- https://temp-mail.org/en/
+- https://www.fakeaddressgenerator.com/us_address_generator
+
 
 
 
