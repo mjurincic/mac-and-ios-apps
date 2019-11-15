@@ -68,5 +68,18 @@
 - https://www.guerrillamail.com/
 
 
-
+People
+- Lin Clark @linclark
+- Dr. Axel Rauschmayer https://2ality.com/
+- Wes Bos https://es5.io/
+@addyosmani
+@wesbos
+@sarah_edo
+@NikkitaFTW
+@dan_abramov
+@starbuxman
+@getify
+@SaraSoueidan
+@techgirl1908
+@kentcdodds
 
