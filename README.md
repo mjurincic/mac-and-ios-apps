@@ -59,8 +59,10 @@
 - https://apps.apple.com/us/app/uber/id368677368
 - https://apps.apple.com/us/app/messenger/id454638411
 - https://apps.apple.com/us/app/bear-beautiful-writing-app/id1016366447?ls=1
-Dropshare for Mac 5	
-Hazel 4
+Dropshare for Mac 5	 
+Hazel 4. 
+Bartender 3
+
 
 ## Development Tools
 - https://google-developers.appspot.com/maps/documentation/utils/geocoder/#q%3DCarrer%2520Gracia%252072%252C%2520%2520LLuchmayor
