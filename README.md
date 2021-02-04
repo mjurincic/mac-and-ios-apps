@@ -41,11 +41,13 @@
 - https://developer.apple.com/xcode
 - https://www.macbartender.com
 - https://macpaw.com/the-unarchiver
-Dropshare for Mac 5	 
-Hazel 4. 
-Bartender 3
-Gemini 2
-https://gifox.io/
+Dropshare for Mac 5	  
+Hazel 4.   
+Bartender 3. 
+Gemini 2. 
+https://gifox.io/. 
+fantastical. 
+vee for videos
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
@@ -64,6 +66,10 @@ https://gifox.io/
 - https://apps.apple.com/us/app/uber/id368677368
 - https://apps.apple.com/us/app/messenger/id454638411
 - https://apps.apple.com/us/app/bear-beautiful-writing-app/id1016366447?ls=1
+- camera +
+- meister task
+- i-translate
+- Where To
 
 
 
