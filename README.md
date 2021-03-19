@@ -41,13 +41,19 @@
 - https://developer.apple.com/xcode
 - https://www.macbartender.com
 - https://macpaw.com/the-unarchiver
-Dropshare for Mac 5	  
-Hazel 4.   
-Bartender 3. 
-Gemini 2. 
-https://gifox.io/. 
-fantastical. 
-vee for videos
+Dropshare for Mac 5	   
+Hazel 4.     
+Bartender 3.   
+Gemini 2.   
+https://gifox.io/.   
+fantastical.   
+vee for videos. 
+Mylio. 
+
+houdahgo. 
+rescue time.  
+pdfpen pro
+pdf exprt
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
