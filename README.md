@@ -47,13 +47,14 @@ Bartender 3.
 Gemini 2.   
 https://gifox.io/.   
 fantastical.   
-vee for videos. 
+vee for videos.   
 Mylio. 
 
-houdahgo. 
-rescue time.  
-pdfpen pro
-pdf exprt
+houdahgo.   
+rescue time.    
+pdfpen pro. 
+pdf exprt.    
+https://toggl.com/track/pricing/.   
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
