@@ -56,7 +56,7 @@ rescue time.
 pdfpen pro. 
 pdf exprt.    
 https://toggl.com/track/pricing/.   
-mjurincic/mac-apps-1
+https://dev.to/alexomeyer/5-vs-code-extensions-that-make-refactoring-easy-1ccb
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
