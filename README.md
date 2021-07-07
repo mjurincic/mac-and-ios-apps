@@ -41,6 +41,7 @@
 - https://developer.apple.com/xcode
 - https://www.macbartender.com
 - https://macpaw.com/the-unarchiver
+- https://raycast.com/
 Dropshare for Mac 5	   
 Hazel 4.     
 Bartender 3.   
@@ -55,6 +56,7 @@ rescue time.
 pdfpen pro. 
 pdf exprt.    
 https://toggl.com/track/pricing/.   
+mjurincic/mac-apps-1
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
@@ -77,7 +79,7 @@ https://toggl.com/track/pricing/.
 - meister task
 - i-translate
 - Where To
-
+- 
 
 
 ## Development Tools
@@ -88,7 +90,12 @@ https://toggl.com/track/pricing/.
 - https://www.guerrillamail.com/
 - https://smartystreets.com/
 - https://www.filestack.com
-
+-https://upstash.com/
+-https://fig.io/
+-https://stackshare.io/
+-https://clerk.dev/
+- https://rome.tools/
+- 
 People
 - Lin Clark @linclark
 - Dr. Axel Rauschmayer https://2ality.com/
