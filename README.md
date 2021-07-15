@@ -95,6 +95,7 @@ https://dev.to/alexomeyer/5-vs-code-extensions-that-make-refactoring-easy-1ccb
 -https://stackshare.io/
 -https://clerk.dev/
 - https://rome.tools/
+- https://typesense.org/about/
 - 
 People
 - Lin Clark @linclark
