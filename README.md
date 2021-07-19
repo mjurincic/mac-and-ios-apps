@@ -96,7 +96,8 @@ https://dev.to/alexomeyer/5-vs-code-extensions-that-make-refactoring-easy-1ccb
 -https://clerk.dev/
 - https://rome.tools/
 - https://typesense.org/about/
-- 
+- https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/?utm_source=changelog&utm_medium=text&utm_campaign=xoogler-blog&utm_content=blog-text
+- https://about.sourcegraph.com/get-started/
 People
 - Lin Clark @linclark
 - Dr. Axel Rauschmayer https://2ality.com/
