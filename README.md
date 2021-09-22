@@ -59,6 +59,7 @@ pdf exprt.
 https://toggl.com/track/pricing/.   
 https://dev.to/alexomeyer/5-vs-code-extensions-that-make-refactoring-easy-1ccb
 https://github.com/zenangst/Syncalicious
+https://www.raycast.com/
 
 ## iOS Apps
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
