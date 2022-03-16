@@ -13,6 +13,7 @@
 - https://www.alfredapp.com/
 - https://cron.com/
 - https://www.raycast.com/
+- https://www.wireguard.com/
 - https://www.shimovpn.com
 - https://kapeli.com/dash
 - https://coderunnerapp.com
