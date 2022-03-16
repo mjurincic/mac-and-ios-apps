@@ -10,6 +10,8 @@
 - https://www.acronis.com/en-us/personal/computer-backup
 - https://www.duetdisplay.com/
 - https://www.alfredapp.com/
+- https://cron.com/
+- https://www.raycast.com/
 - https://www.shimovpn.com
 - https://kapeli.com/dash
 - https://coderunnerapp.com
@@ -63,6 +65,7 @@ https://www.raycast.com/
 https://tailscale.com/
 
 ## iOS Apps
+- https://apps.apple.com/app/screen-mirror-over-usb/id1612180624?mt=12
 - https://itunes.apple.com/us/app/tripit-travel-organizer/id311035142
 - https://itunes.apple.com/gb/app/guides-by-lonely-planet/id1045791869
 - https://itunes.apple.com/us/app/airbnb/id401626263
