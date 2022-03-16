@@ -1,7 +1,7 @@
 ## OS X Apps
 - https://brew.sh/
 - https://www.google.com/chrome
-- https://macpaw.com/cleanmymac
+- https://daisydiskapp.com
 - https://gpgtools.org/
 - https://www.getpostman.com/
 - https://keep.google.com/
@@ -14,7 +14,6 @@
 - https://kapeli.com/dash
 - https://coderunnerapp.com
 - https://www.charlesproxy.com
-- https://daisydiskapp.com
 - https://www.dbschema.com/index.html
 - https://encrypt.me
 - https://www.binarynights.com/forklift
