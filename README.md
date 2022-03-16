@@ -42,6 +42,7 @@
 - https://www.macbartender.com
 - https://macpaw.com/the-unarchiver
 - https://raycast.com/
+- https://www.wireguard.com/
 Dropshare for Mac 5	   
 Hazel 4.     
 Bartender 3.   
