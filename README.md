@@ -1,5 +1,6 @@
 ## OS X Apps
 - https://brew.sh/
+- https://obsidian.md/
 - https://www.google.com/chrome
 - https://daisydiskapp.com
 - https://gpgtools.org/
