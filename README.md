@@ -1,6 +1,8 @@
 ## OS X Apps
+- https://www.arqbackup.com/
 - https://brew.sh/
 - https://obsidian.md/
+- https://netnewswire.com/
 - https://www.google.com/chrome
 - https://daisydiskapp.com
 - https://gpgtools.org/
